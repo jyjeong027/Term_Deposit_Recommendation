@@ -1,4 +1,4 @@
-# Bank Term Deposit Recommendation – Classification Model
+# Customer Targeting Strategy for Bank Term Deposit Promotions – Classification Model
 
 ## Project Overview
 The objective of this analysis is to apply a classification model to identify a group of customers that are most likely to subscribe to a term deposit to support targeted marketing. 
