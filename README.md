@@ -28,8 +28,8 @@ The dataset contains following historical data from marketing campaign for simil
 
 2. **Model Selection & Training**
    - RandomForest Classifier with Hyperparameter tuning
-   - Model evaluation using:
-   - Accuracy, Precision, Recall, F1-score 
+   - Model evaluation using (Accuracy, Precision, Recall, F1-score):
+     - Precision prioritized to keep low false positive which may result in waste of budget
    - Feature Importance Identification
      
 3. **Final Outcome**
