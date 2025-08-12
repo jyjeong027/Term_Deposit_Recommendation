@@ -11,7 +11,7 @@ Identify and prioritize customers who are most likely to subscribe to the term d
 
 **Analytical Question:
 What are the strongest factors influencing customer subscriptions? Among these factors, which customer characteristics are most commonly associated with a higher likelihood of subscription?**
-- Analyzed using Classification ML Model (Random Forest) with Feature Importance analysis to determine strongest factors and deep dive into top features to profile high potential customers and recommend optimal target group\
+- Analyzed using Classification ML Model (Random Forest) with Feature Importance analysis to determine strongest factors and deep dive into top features to profile high potential customers and recommend optimal target group
 
 ## Dataset
 The dataset contains following historical data from marketing campaign for similar term deposit product in the past:
