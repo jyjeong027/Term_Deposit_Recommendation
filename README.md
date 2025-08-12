@@ -34,3 +34,4 @@ The dataset contains following historical data from marketing campaign for simil
      
 3. **Final Outcome**
    - Identify customer characteristics that are most commonly associated with a higher likelihood of subscription
+   - A ranked profile of high-potential customer segments based on key predictive characteristics, enabling Bank A to allocate marketing resources effectively and maximize ROI.
