@@ -34,4 +34,22 @@ The dataset contains following historical data from marketing campaign for simil
      
 3. **Final Outcome**
    - Identify customer characteristics that are most commonly associated with a higher likelihood of subscription
-   - A ranked profile of high-potential customer segments based on key predictive characteristics, enabling Bank A to allocate marketing resources effectively and maximize ROI.
+
+## Conclusion
+Based on these results, Bank A can high priority customers can be defined as customers who 
+- Responded positively to previous campaigns
+- Have a mobile contact method
+- Are aged under 20 or over 60
+- Have a yearly account balance of at least 2,000
+  
+**Bank A should send personalized mobile campaigns to this priority customers, as they represent the highest likelihood of term deposit subscription.** 
+
+Addtional strategies include: 
+Age-Based Campaign Messaging
+- Younger Customers (teens to 20s): Promote term deposits as smart savings for young professionals beginning their financial journey.
+- Older Customers (60+): Tailor messages focusing on retirement planning and long-term financial security.
+
+Contact Method Improvement (For Long-Term Gains)
+- Encourage customers to update or provide their mobile contact information, since customers reachable via mobile show significantly higher subscription rates.
+
+
