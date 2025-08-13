@@ -36,7 +36,7 @@ The dataset contains following historical data from marketing campaign for simil
    - Identify customer characteristics that are most commonly associated with a higher likelihood of subscription
 
 ## Conclusion
-Based on these results, Bank A can high priority customers can be defined as customers who 
+Based on these results, high priority customers can be defined as customers who 
 - Responded positively to previous campaigns
 - Have a mobile contact method
 - Are aged under 20 or over 60
